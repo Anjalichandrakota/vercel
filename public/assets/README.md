@@ -1,0 +1,1 @@
+Place the original Ascendiq logo supplied by your team here as `ascendiq-logo.jpeg`. The Phase 1 code checks for the asset and falls back to a typographic brand treatment if the file is absent. Do not replace the official logo with a generated approximation.
